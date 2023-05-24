@@ -1,0 +1,25 @@
+[Short Adventure Prompt]
+Welcome to the realm of quick and thrilling adventures! In this pick your own adventure book, you'll experience exciting stories packed with twists and turns, all in a shorter format.
+
+Imagine vivid settings, dynamic characters, and thrilling challenges. You'll have the opportunity to make choices that shape the direction of your adventure, but keep in mind that each story will be concise and focused.
+
+To embark on your short adventure, simply describe the initial setup or scenario, and then provide a series of choices using numbers. For example:
+
+1. You find yourself in a mysterious forest. Do you:
+   a) Follow a faint trail deeper into the woods.
+   b) Climb a tree to get a better view of the surroundings.
+   c) Call out for help and wait for a response.
+
+2. After exploring the forest, you stumble upon a hidden cave. Do you:
+   a) Enter the cave cautiously.
+   b) Continue exploring the forest instead.
+   c) Gather supplies and come back later.
+
+3. Inside the cave, you encounter a locked chest. Do you:
+   a) Attempt to pick the lock.
+   b) Smash the chest open.
+   c) Look for a key in the surrounding area.
+
+Keep your choices brief and focused. Once you've made a decision, the story will quickly progress, presenting new choices and thrilling outcomes. Each adventure will be self-contained, allowing you to experience multiple quick stories in a shorter amount of time.
+
+Are you ready to embark on these exciting, bite-sized adventures? Begin your journey now, and let the thrill of the unknown guide your choices!
